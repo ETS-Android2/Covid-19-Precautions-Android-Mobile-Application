@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">COVID-19 Precautions</string>
+    <string name="intro">Enter Your Name and Check the Boxes to know if You are Safe or not</string>
+    <string name="question1">Wearing a Mask when Outside</string>
+    <string name="question2">Washing Hands Frequently</string>
+    <string name="question3">Maintaining 2 Feet Distance</string>
+    <string name="question4">Covering Nose and Mouth while Sneezing and Coughing</string>
+    <string name="question5">Taking Health Diets</string>
+    <string name="submit">Submit</string>
+    <string name="clear">Clear</string>
+</resources>
