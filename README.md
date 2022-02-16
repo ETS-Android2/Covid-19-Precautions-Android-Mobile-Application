@@ -17,3 +17,16 @@ This state should be returned to the first activity with remebering the details 
 </p>
 
 ### ScreenShots
+
+#### First Page:
+![1](https://user-images.githubusercontent.com/43794593/154306383-698ae63e-893f-4342-bc1d-5346a658b88f.jpg)
+
+#### When not Selecting all precautions
+![2](https://user-images.githubusercontent.com/43794593/154306508-3dcaf8a5-cf84-4569-8f40-b477fb7279c2.jpg)
+![3](https://user-images.githubusercontent.com/43794593/154306560-b777d02c-a1fd-42cb-abda-8f4b3d15c822.jpg)
+![4](https://user-images.githubusercontent.com/43794593/154306580-fb9bf76a-0f7f-4286-9970-bd637aeae63d.jpg)
+
+#### When Selecting all precautions
+![5](https://user-images.githubusercontent.com/43794593/154306640-c1b92afa-19da-4e7d-b861-14333b892842.jpg)
+![6](https://user-images.githubusercontent.com/43794593/154306647-13cab82b-a939-4fbc-808d-614610be74ec.jpg)
+
