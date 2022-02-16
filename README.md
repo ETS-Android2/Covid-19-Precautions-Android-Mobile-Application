@@ -1,7 +1,7 @@
 # Covid-19-Precautions-Android-Mobile-Application
 
 ### Application Activity
-<p aign = "justify">
+<p align = "justify">
 COVID-19 Precautions Android app with the first activity having a form containing TextViews and EditText boxes asking user to enter his/her Name, and checkboxes showing 5 precautionary measures against the virus spread. <br/>
 They are: <br/>
 1) Wearing a mask when outside  <br/>
